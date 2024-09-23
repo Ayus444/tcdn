@@ -43,9 +43,9 @@ collection = get_collection(BOT_NAME, MONGO_URI)
 OWNER_IDS = [502980590]  # Replace with the actual owner user IDs
 
 # Global variables
-log_channel_id = 7078486618
+log_channel_id = -1002491012078
 authorized_users = []
-ALLOWED_CHANNEL_IDS = [-1002491012078]
+ALLOWED_CHANNEL_IDS = []
 my_name = "𝐊𝐔𝐍𝐀𝐋❤️"
 overlay = None 
 accept_logs = 0
