@@ -1,5 +1,5 @@
 # config.py
-BOT_NAME = "tcdntcdn"
+BOT_NAME = "tcdntcdnbot"
 BOT_TOKEN = "7749805022:AAHoVm5BMz2L1-U6cAxg1dfOQep3Eam-4hQ"
 API_ID = 23031620
 API_HASH = "31cb00c1cbe580394778b43105864bca"
