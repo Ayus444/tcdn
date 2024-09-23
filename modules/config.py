@@ -1,6 +1,6 @@
 # config.py
-BOT_NAME = "jokerbhaisahab3"
-BOT_TOKEN = "7326006111:AAE-8BcoQkmyBTkqfkD2Wjc0mj1LAVKf6Gc"
-API_ID = 20299588
-API_HASH = "f550d6179131c293d658f15f8c24f594"
-MONGO_URI = "mongodb+srv://mrnobody:modernhackers@mrnobody.q8e87ij.mongodb.net/?retryWrites=true&w=majority&appName=MrNobody"
+BOT_NAME = "tcdntcdn"
+BOT_TOKEN = "7749805022:AAHoVm5BMz2L1-U6cAxg1dfOQep3Eam-4hQ"
+API_ID = 23031620
+API_HASH = "31cb00c1cbe580394778b43105864bca"
+MONGO_URI = "mongodb+srv://altafpathan55555:dmji6xouKD68zH8x@cluster0.axthl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
